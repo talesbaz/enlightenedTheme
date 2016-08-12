@@ -2,7 +2,7 @@
     "name": "theme-enlightened",
     "displayName": "enlightened Theme",
     "description": "enlightened Theme for VS Code",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "talesbaz",
     "engines": {
         "vscode": "^1.0.0"
